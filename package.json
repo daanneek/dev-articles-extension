@@ -10,6 +10,7 @@
     "build-extension": "yarn build"
   },
   "dependencies": {
+    "@types/chrome": "^0.0.246",
     "preact": "^10.16.0"
   },
   "devDependencies": {
